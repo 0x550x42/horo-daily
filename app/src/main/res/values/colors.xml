@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="lighterBlue">#81D4FA</color>
+    <color name="lightBlue">#4FC3F7</color>
+    <color name="darkBlue">#0288D1</color>
+    <color name="yellow">#FFEA00</color>
+    <color name="gray">#5E656A</color>
+
+    <color name="colorPrimaryLight">@color/lighterBlue</color>
+    <color name="colorPrimary">@color/darkBlue</color>
+    <color name="colorPrimaryDark">@color/darkBlue</color>
+    <color name="colorAccent">@color/yellow</color>
+
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorDrawer">@color/colorPrimaryDark</color>
+    <color name="colorToolbar">@color/colorPrimaryDark</color>
+    <color name="colorBackground">@color/gray</color>
+    <color name="colorDialogueBackground">@color/colorPrimaryDark</color>
+    <color name="colorDialogueContent">@color/colorText</color>
+
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ud010\\Documents\\Personal\\Projects\\Android\\AndroidStudioProjects\\HoroDaily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ud010\\Documents\\Personal\\Projects\\Android\\AndroidStudioProjects\\HoroDaily\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ud010\\Documents\\Personal\\Projects\\Android\\AndroidStudioProjects\\HoroDaily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_star.png",
+        "source": "C:\\Users\\ud010\\Documents\\Personal\\Projects\\Android\\AndroidStudioProjects\\HoroDaily\\app\\src\\main\\res\\mipmap-mdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\ud010\\Documents\\Personal\\Projects\\Android\\AndroidStudioProjects\\HoroDaily\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_ganesha_speaks.png",
+        "source": "C:\\Users\\ud010\\Documents\\Personal\\Projects\\Android\\AndroidStudioProjects\\HoroDaily\\app\\src\\main\\res\\mipmap-mdpi\\ic_ganesha_speaks.png"
+    }
+]

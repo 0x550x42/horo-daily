@@ -1,0 +1,7 @@
+#Thu Feb 16 20:37:56 IST 2017
+base.0=C\:\\Users\\ud010\\Documents\\Personal\\Projects\\Android\\AndroidStudioProjects\\HoroDaily\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d2c01e5a9cdb6b10653c6f2efb17e8a8c6984545
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ud010\\Documents\\Personal\\Projects\\Android\\AndroidStudioProjects\\HoroDaily\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8dd4383b744f780fc336b6b7c70070177fdac4c2\\classes.dex
+base.1=C\:\\Users\\ud010\\Documents\\Personal\\Projects\\Android\\AndroidStudioProjects\\HoroDaily\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8dd4383b744f780fc336b6b7c70070177fdac4c2
+file.0=C\:\\Users\\ud010\\Documents\\Personal\\Projects\\Android\\AndroidStudioProjects\\HoroDaily\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d2c01e5a9cdb6b10653c6f2efb17e8a8c6984545\\classes.dex

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HoroDaily</string>
+    <string name="title_activity_main_new">MainNew</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_find_your_fate">FindYourFate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="find_your_fate">Find Your Fate</string>
+    <string name="astro_bix">Astro Bix</string>
+    <string name="ganesha_speaks">Ganesha Speaks</string>
+    <string name="cafe_astrology">Cafe Astrology</string>
+    <string name="pro_kerala">Pro Kerala</string>
+    <string name="tarot">Tarot</string>
+    <string name="astropolis">Astropolis</string>
+    <string name="cainer">Cainer</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
